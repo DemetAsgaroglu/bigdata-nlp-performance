@@ -75,7 +75,7 @@ VADER algoritması ile tweetlerin olumlu, olumsuz ve nötr duygu dağılımları
 ## Performans Karşılaştırması
 Aşağıdaki grafik, tekil ve dağıtık sistemlerde yapılan analizlerin süre karşılaştırmasını göstermektedir:
 
-![Yüzdelik Süre Değişimi](gorsel/yuzdelik_degisim_postere_uygun3.png)
+![Yüzdelik Süre Değişimi](gorsel/yuzdelik_degisim_postere_uygun.png)
 
 - Dağıtık sistemler, büyük veri üzerinde analiz sürelerini önemli ölçüde azaltmıştır.
 - Analiz sonuçları ve karşılaştırmalar görsellerle desteklenmiştir.
@@ -83,4 +83,5 @@ Aşağıdaki grafik, tekil ve dağıtık sistemlerde yapılan analizlerin süre 
 ---
 
 Her türlü katkı ve geri bildirime açığım!
+
 
