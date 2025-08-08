@@ -42,10 +42,8 @@ Artırılmış Tweet: `"Yapay zekâ müthiş bir buluş!"`
 
 ## Klasör Yapısı
 ```
-├── analiz.py
 ├── src_dagitik/
 ├── gorsel/
-├── models/
 ├── src/
 ```
 
@@ -53,13 +51,6 @@ Artırılmış Tweet: `"Yapay zekâ müthiş bir buluş!"`
 - Python (pandas, matplotlib, scikit-learn, nltk, gensim)
 - Dağıtık analizler için: (ör. PySpark veya Dask, kullandıysanız belirtin)
 
-## Nasıl Çalıştırılır?
-1. Gerekli Python paketlerini yükleyin:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Veri dosyalarını `data/` klasörüne yerleştirin.
-3. Analizleri başlatmak için ilgili Python dosyalarını çalıştırın.
 
 ## Örnek Görseller
 
@@ -92,3 +83,4 @@ Aşağıdaki grafik, tekil ve dağıtık sistemlerde yapılan analizlerin süre 
 ---
 
 Her türlü katkı ve geri bildirime açığım!
+
